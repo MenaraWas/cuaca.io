@@ -1,61 +1,10 @@
+## PROJECT TITLE
+Cuaca.io
 
-# Project Title
+## STACK
+HTML, CSS, JS
 
-A brief description of what this project does and who it's for
+## DESCRIPTION
+This project is learning and practice project to sharpening my coding skill. In this project i learn more about css styling, javascript, API Calling and layouting. 
 
-## Tech Stack
-
-**Client:** HTML, CSS, JavaScript, API
-
-## Demo
-
-Insert gif or link to demo
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Open with VSCode
-
-```bash
-  code .
-```
-
-Open with live server
-
-```bash
-  npm run start
-```
-
-
-## Authors
-
-- [@codewithsadee](https://www.github.com/codewithsadee)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Support
-
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
+shoutout to [@codewithsadee](https://www.github.com/codewithsadee) as an original author and mentor. 
